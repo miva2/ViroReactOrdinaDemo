@@ -1,0 +1,22 @@
+{
+  "bookedMeetings": [
+    {
+      "meetingRoom": "M21",
+      "fromTime": "2018-05-11T13:00:00",
+      "toTime": "2018-05-11T14:00:00",
+      "shortDescription": "testing meeting room info",
+      "longDescription": "testing meeting room info\nwith all the details:\n\n- detail 1\n- detail 2\n- detail 3",
+      "organisers": "Michael Vandendriessche",
+      "otherAttendants": "Ryan De Gruyter"
+    },
+    {
+      "meetingRoom": "C01",
+      "fromTime": "2018-05-17T18:00:00",
+      "toTime": "2018-05-17T20:00:00",
+      "shortDescription": "workshop Viroreact",
+      "longDescription": "Hi, We are sending you this email to inform you about our second session of the year! This second session will feature ViroReact. A framework for rapidly building multiplatform AR/VR applications on Android and IOS. The session will take place on May 17'th from 18:00 till 20:00 in the C01 meeting room. Food will be provided for those who accept the meeting invitation. This session will be hosted by Ryan De Gruyter and Michael Vandendriessche whom I would like to thank in advance for their efforts towards the competence center. Hope to see you all there! Kind regards, Kevin Van den Abeele - Internet of Things Competence Leader",
+      "organisers": "Kevin Van den Abeele, Ryan De Gruyter, Michael Vandendriessche",
+      "otherAttendants": "personA, personB, personC"
+    }
+  ]
+}
